@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9b3cc570-5df0-4d08-bbea-53cfaf9a58aa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/booking/MovieTicketClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/booking/MovieTicketClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/booking/MovieTicketServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/booking/MovieTicketServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +57,10 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Groovy compiler&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -65,7 +73,8 @@
       <option name="presentableId" value="Default" />
       <updated>1676625391236</updated>
       <workItem from="1676625392287" duration="702000" />
-      <workItem from="1676626390899" duration="684000" />
+      <workItem from="1676626390899" duration="4474000" />
+      <workItem from="1676630997131" duration="5015000" />
     </task>
     <servers />
   </component>
